@@ -1,6 +1,6 @@
-<h1 align="center"><b>🦋 LOKESH KHUSHI CHATBOT 🦋</b></h1>
-<img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg">
- ⭐️ Thanks to everyone for using LOKESH KHUSHI CHAT BOT,  🤭 That is the greatest pleasure we have !
+<h1 align="center"><b>🦋  CHATBOT 🦋</b></h1>
+<img src="https://telegra.ph/file/7c1a748eb735f587dcfd5.jpg">
+ ⭐️ Thanks to everyone for using AJEET CHAT BOT,  🤭 That is the greatest pleasure we have !
 # ᴀʙᴏᴜᴛ
 <i>ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ.</i>
 
@@ -10,12 +10,12 @@
 # ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
 <i>**[Watch Deploying Tutorial...](https://youtube.com/watch?v=b8iZtBqSMMs&feature)**</i>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/lokeshkhushi_chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ajsites2324/lokeshkhushi_chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## <i>ᴄʜᴇᴄᴋ ᴛʜᴇ ᴅᴇᴍᴏ ʀᴏʙᴏᴛ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!</i>
 <i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
-<p align="center"><a href="https://t.me/Khushi_chat_bot"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
+<p align="center"><a href="https://t.me/ajeet_bots"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
 <a href="https://github.com/WCGKING/lokeshkhushi_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=Candy_chatbot&theme=chartreuse-dark"></a>
